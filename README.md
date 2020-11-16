@@ -30,5 +30,8 @@ Doufáme že projekt bude užitečný nejen pro nás ale i veřejnost.
 ☻
 <hr>
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/Wireframe/Wireframe.PNG">Wireframe</a>
+
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/plan/plan.md.md">Plán</a>
+
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/Use%20Case%20diagram%201.PNG">Diagram</a>
+
