@@ -1,4 +1,4 @@
-# Programování 3.B 1. pololetíááá
+# Programování 3.B 1. pololetí
  
  Projekt je do předmětu Projekt Programování a Dokumentace Projektu
  
