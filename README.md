@@ -29,7 +29,7 @@ Jelikož je nám Flutter a Dart nový, doufáme že se nijak nesekneme a dokáž
 Doufáme že projekt bude užitečný nejen pro nás ale i veřejnost.
 ☻
 <hr>
-<a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/Wireframe/Wireframe.PNG">Wireframe</a>
+<a href="https://github.com/Tombabomba/Projekt_PRJ_3B/tree/main/DOC/Wireframe">Wireframe</a>
 
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/plan/plan.md.md">Plán</a>
 
