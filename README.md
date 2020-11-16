@@ -3,9 +3,9 @@
  Projekt je do předmětu Projekt Programování a Dokumentace Projektu
  
 Pracují:
--Tomáš Černý
--Michal Jurák
--Martin Hořinek
+- Tomáš Černý
+- Michal Jurák
+- Martin Hořinek
 
 <b>Aplikace Počasí</b>
 
