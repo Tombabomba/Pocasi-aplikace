@@ -32,7 +32,7 @@ Doufáme že projekt bude užitečný nejen pro nás ale i veřejnost.
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/tree/main/DOC/Wireframe">Wireframe</a>
 <br>
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/plan/plan.md.md">Plán</a>
-
+<br>
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/Use%20Case%20diagram%201.PNG">Diagram</a>
 
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/01-ui-desig.md">Stručný popis diagramu</a>
