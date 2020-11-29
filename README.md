@@ -14,7 +14,9 @@ Také se budou moci podívat na předpověd o několik hodin napřed, kde jim ap
 Intervaly budou po hodinách.
 
 Uživatelí si musí vybrat jestli:
+ <br>
 -chtějí GPS lokalitu
+<br>
 -chtějí lokalitu jiného místa
 
 Aplikace bude napsána pomocí jazyku Dart a pomocí software Flutter.
