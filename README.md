@@ -10,17 +10,25 @@ Pracují:
 <b>Aplikace Počasí</b>
 
 Uživatelé aplikace si budou moct na svých zařízeních zoobrazit momentální počásí ve stupních Celsia. 
-Také se budou moci podívat na předpověd o několik hodin napřed, kde jim aplikace ukáže počet stupňů a k tomu počet hodin. 
-Intervaly budou po hodinách.
+Také se budou moci podívat na předpověd o sedm dní napřed, kde jim aplikace ukáže počet stupňů a k tomu počet nejvyšších a nejnižších stupnů v určitý den. 
 
-Uživatelí si musí vybrat jestli:
- <br>
--chtějí GPS lokalitu
-<br>
--chtějí lokalitu jiného místa
+Uživatelé si musí vybrat jestli:
+- chtějí GPS lokalitu
+- chtějí lokalitu jiného místa
 
 Aplikace bude napsána pomocí jazyku Dart a pomocí software Flutter.
 - bude fungovat jak na ios tak i android.
+
+Programujeme v aplikaci Android Studio.
+
+Pracujeme podle tutoriálu na youtube.
+<br>
+<a href="https://www.youtube.com/watch?v=GwIJdJD4Bc4">Tutoriál 1. část</a>
+
+Dodatečné informace, jako ikony a pozadí aplikace získáváme z repozitáře výše zmíněného tutoriálu. 
+<br>
+<a href="https://github.com/mercihohmann/flutter-weather-app"> Repozitář </a>
+ 
 
 Projekt může používat kdokoliv, jelikož bude velmi přehledný i prostý. Jelikož je tahle aplikace velmi běžná, mnozí již budou vědět jak fungují aplikace s počasím. 
 
