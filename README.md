@@ -1,6 +1,6 @@
 # Programování 3.B 1. pololetí
  
- Projekt je do předmětu Projekt Programování a Dokumentace Projektu
+ Projekt je do předmětu Projekt Programování a Dokumentace Projektu na škole Obchodní akademie v Uherském Hradišti
  
 Pracují:
 - Tomáš Černý
@@ -39,7 +39,7 @@ Jelikož je nám Flutter a Dart nový, doufáme že se nijak nesekneme a dokáž
 Doufáme že projekt bude užitečný nejen pro nás ale i veřejnost.
 ☻
 <hr>
-<a href="https://github.com/Tombabomba/Projekt_PRJ_3B/tree/main/DOC/Wireframe">Wireframe</a>
+<a href="https://github.com/Tombabomba/Projekt_PRJ_3B/tree/main/DOC/Wireframe/wireframe.md">Wireframe</a>
 <br>
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/plan/plan.md.md">Plán</a>
 <br>
