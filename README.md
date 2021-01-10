@@ -7,6 +7,7 @@ Pracují:
 - Tomáš Černý
 - Michal Jurák
 - Martin Hořinek
+
 <b>Aplikace Počasí</b>
 Uživatelé aplikace si budou moct na svých zařízeních zoobrazit momentální počásí ve stupních Celsia. 
 Také se budou moci podívat na předpověd o sedm dní napřed, kde jim aplikace ukáže počet stupňů a k tomu počet nejvyšších a nejnižších stupnů v určitý den. 
@@ -19,6 +20,7 @@ Programujeme v aplikaci Android Studio.
 Pracujeme podle tutoriálu na youtube.
 <br>
 <a href="https://www.youtube.com/watch?v=GwIJdJD4Bc4">Tutoriál 1. část</a>
+
 Dodatečné informace, jako ikony a pozadí aplikace získáváme z repozitáře výše zmíněného tutoriálu. 
 <br>
 <a href="https://github.com/mercihohmann/flutter-weather-app"> Repozitář </a>
@@ -35,4 +37,5 @@ Doufáme že projekt bude užitečný nejen pro nás ale i veřejnost.
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/plan/plan.md.md">Plán</a>
 <br>
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/Use%20Case%20diagram%201.PNG">Diagram</a>
+
 <a href="https://github.com/Tombabomba/Projekt_PRJ_3B/blob/main/DOC/01-ui-desig.md">Stručný popis diagramu</a>
